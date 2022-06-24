@@ -1,0 +1,382 @@
+<enviNFe xmlns='http://www.portalfiscal.inf.br/nfe' versao='4.00'>
+    <idLote>143345</idLote>
+    <indSinc>0</indSinc>
+    <NFe xmlns='http://www.portalfiscal.inf.br/nfe'>
+        <infNFe versao='4.00' Id='NFe52220600419694000104550010000238981001433453'>
+            <ide>
+                <cUF>52</cUF>
+                <cNF>00143345</cNF>
+                <natOp>DEVOL. COMPRA REVENDA - EMISSAO PROPRIA</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>23898</nNF>
+                <dhEmi>2022-06-10T17:45:00-03:00</dhEmi>
+                <dhSaiEnt>2022-06-10T17:45:00-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>5208707</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>3</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>4</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>0</indPres>
+                <procEmi>0</procEmi>
+                <verProc>1.2.0.0</verProc>
+                <NFref>
+                    <refNFe>35220657029431004780550150000505361501209754</refNFe>
+                </NFref>
+            </ide>
+            <emit>
+                <CNPJ>00419694000104</CNPJ>
+                <xNome>COALUMAQ - COMERCIO DE COMPRESSORES LTDA-ME</xNome>
+                <xFant>COALUMAQ</xFant>
+                <enderEmit>
+                    <xLgr>AV. VENEZA</xLgr>
+                    <nro>1655</nro>
+                    <xCpl>QD. 09 LT.05</xCpl>
+                    <xBairro>JARDIM EUROPA</xBairro>
+                    <cMun>5208707</cMun>
+                    <xMun>GOIANIA</xMun>
+                    <UF>GO</UF>
+                    <CEP>74325100</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>6232873231</fone>
+                </enderEmit>
+                <IE>102771960</IE>
+                <IM>1600443</IM>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>57029431004780</CNPJ>
+                <xNome>ATLAS COPCO BRASIL LTDA</xNome>
+                <enderDest>
+                    <xLgr>AV. PIRAIBA</xLgr>
+                    <nro>202</nro>
+                    <xBairro>CENTRO COMERCIAL JUBRAN</xBairro>
+                    <cMun>3505708</cMun>
+                    <xMun>BARUERI</xMun>
+                    <UF>SP</UF>
+                    <CEP>06460121</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>1134788700</fone>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>206118812117</IE>
+            </dest>
+            <retirada>
+                <CNPJ>00419694000104</CNPJ>
+                <xLgr>AV. VENEZA</xLgr>
+                <nro>1655</nro>
+                <xCpl>QD. 09 LT.05</xCpl>
+                <xBairro>JARDIM EUROPA</xBairro>
+                <cMun>5208707</cMun>
+                <xMun>GOIANIA</xMun>
+                <UF>GO</UF>
+            </retirada>
+            <entrega>
+                <CNPJ>57029431004780</CNPJ>
+                <xLgr>AV. PIRAIBA</xLgr>
+                <nro>202</nro>
+                <xBairro>CENTRO COMERCIAL JUBRAN</xBairro>
+                <cMun>3505708</cMun>
+                <xMun>BARUERI</xMun>
+                <UF>SP</UF>
+            </entrega>
+            <det nItem='1'>
+                <prod>
+                    <cProd>1028869804</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>KIT DE FILTRO 8.000HS</xProd>
+                    <NCM>84219999</NCM>
+                    <CFOP>6202</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>4.0000</qCom>
+                    <vUnCom>2621.9400000000</vUnCom>
+                    <vProd>10487.76</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>4.0000</qTrib>
+                    <vUnTrib>2621.9400000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <xPed>082-2022</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>1636.35</vTotTrib>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>0</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>10487.76</vBC>
+                            <pICMS>7.0000</pICMS>
+                            <vICMS>734.14</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>9753.62</vBC>
+                            <pPIS>1.6500</pPIS>
+                            <vPIS>160.93</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>9753.62</vBC>
+                            <pCOFINS>7.6000</pCOFINS>
+                            <vCOFINS>741.28</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+                <impostoDevol>
+                    <pDevol>100.00</pDevol>
+                    <IPI>
+                        <vIPIDevol>545.36</vIPIDevol>
+                    </IPI>
+                </impostoDevol>
+            </det>
+            <det nItem='2'>
+                <prod>
+                    <cProd>1028869802</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>KIT FILTROS 8000H GA55/75</xProd>
+                    <NCM>84213100</NCM>
+                    <CFOP>6202</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>3.0000</qCom>
+                    <vUnCom>2699.8000000000</vUnCom>
+                    <vProd>8099.40</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>3.0000</qTrib>
+                    <vUnTrib>2699.8000000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <xPed>082-2022</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>1263.70</vTotTrib>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>0</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>8099.39</vBC>
+                            <pICMS>7.0000</pICMS>
+                            <vICMS>566.96</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>7532.44</vBC>
+                            <pPIS>1.6500</pPIS>
+                            <vPIS>124.28</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>7532.44</vBC>
+                            <pCOFINS>7.6000</pCOFINS>
+                            <vCOFINS>572.47</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+                <impostoDevol>
+                    <pDevol>100.00</pDevol>
+                    <IPI>
+                        <vIPIDevol>421.17</vIPIDevol>
+                    </IPI>
+                </impostoDevol>
+            </det>
+            <det nItem='3'>
+                <prod>
+                    <cProd>1028869801</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>KIT FILTROS AR/OLEO 4000H</xProd>
+                    <NCM>84219999</NCM>
+                    <CFOP>6202</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>1479.0100000000</vUnCom>
+                    <vProd>1479.01</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>1479.0100000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <xPed>082-2022</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>230.76</vTotTrib>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>0</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>1479.01</vBC>
+                            <pICMS>7.0000</pICMS>
+                            <vICMS>103.53</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>1375.48</vBC>
+                            <pPIS>1.6500</pPIS>
+                            <vPIS>22.70</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>1375.48</vBC>
+                            <pCOFINS>7.6000</pCOFINS>
+                            <vCOFINS>104.54</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+                <impostoDevol>
+                    <pDevol>100.00</pDevol>
+                    <IPI>
+                        <vIPIDevol>76.91</vIPIDevol>
+                    </IPI>
+                </impostoDevol>
+            </det>
+            <det nItem='4'>
+                <prod>
+                    <cProd>1028869800</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>KIT FILTROS AR/OLEO 4000H</xProd>
+                    <NCM>84213100</NCM>
+                    <CFOP>6202</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>4.0000</qCom>
+                    <vUnCom>1736.7400000000</vUnCom>
+                    <vProd>6946.95</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>4.0000</qTrib>
+                    <vUnTrib>1736.7400000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <xPed>082-2022</xPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>1083.90</vTotTrib>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>0</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>6946.95</vBC>
+                            <pICMS>7.0000</pICMS>
+                            <vICMS>486.29</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>6460.66</vBC>
+                            <pPIS>1.6500</pPIS>
+                            <vPIS>106.60</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>6460.66</vBC>
+                            <pCOFINS>7.6000</pCOFINS>
+                            <vCOFINS>491.01</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+                <impostoDevol>
+                    <pDevol>100.00</pDevol>
+                    <IPI>
+                        <vIPIDevol>361.24</vIPIDevol>
+                    </IPI>
+                </impostoDevol>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>27013.11</vBC>
+                    <vICMS>1890.91</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>27013.12</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>1404.68</vIPIDevol>
+                    <vPIS>414.51</vPIS>
+                    <vCOFINS>1909.29</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>27919.72</vNF>
+                    <vTotTrib>4214.72</vTotTrib>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>0</modFrete>
+                <transporta>
+                    <CNPJ>44914992001371</CNPJ>
+                    <xNome>RODONAVES TRANSPORTES E ENCOMENDAS LTDA</xNome>
+                    <IE>112782533118</IE>
+                    <xEnder>AVENIDA ALEXANDRE COLARES</xEnder>
+                    <xMun>SAO PAULO</xMun>
+                    <UF>SP</UF>
+                </transporta>
+                <vol>
+                    <qVol>0</qVol>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>23898</nFat>
+                    <vOrig>27919.72</vOrig>
+                    <vDesc>0.00</vDesc>
+                    <vLiq>27919.72</vLiq>
+                </fat>
+            </cobr>
+            <pag>
+                <detPag>
+                    <tPag>90</tPag>
+                    <vPag>27919.72</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>DEVOLUCAO PARCIAL DA SUA NF 50536 DO DIA 02/06/2022 DEVIDO AOS ITENS SEREM PEDIDOS EM DUPLICIDADE. | Valor total do IPI devolvido: 1404,68</infCpl>
+            </infAdic>
+        </infNFe>
+        <Signature xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+                <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+                <Reference URI='#NFe52220600419694000104550010000238981001433453'>
+                    <Transforms>
+                        <Transform Algorithm='http://www.w3.org/2000/09/xmldsig#enveloped-signature' />
+                        <Transform Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+                    </Transforms>
+                    <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                    <DigestValue>PAO/Csp2jDROK1eS8Wk0k2G3lXc=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>FoxOaqyW3lQQb+TO00YTQHnPILCTZi/GsEyZXauI9PH4zKVs+cpFyQJ6lx+nHcfX45qZtAOhQivES0vsO56nNsc6fdgWfFvsVjC6RFMCOLTGsXC1Nll2K5f8yWHDYLjqLYLN68BVWkmElarOXzdS4TLQYsfUfznDFzDuounsRi4dXoFgehbouWpi59ntCLrUCiuRHv3HQYq7/qAgh+zqUFfaPofpefOW9byrUP9/k/Q+1JAljfYhCp5sHvpzhqB6aED3pqOPnQGR72FcjrrOQijp+mnYxnT7l5rCNdmLr8MHqWnJqakZkVcCV7Nk4OjtYMjxn2VyUsxttxsEhTDIxA==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+</enviNFe>
